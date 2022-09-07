@@ -66,6 +66,8 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 
 Resultados
+![image](https://user-images.githubusercontent.com/111370930/188944728-2697e741-8bb7-47f8-8bdf-e1602db21db3.png)
+Se muestra el resultado en el debug de notered, podemos ver la impresion de la fecha y hora de nuestro hostlocal.
 
 A continuación puede verse una vista previa del resultado de este flow. (Se debe exportar el flow)
 
